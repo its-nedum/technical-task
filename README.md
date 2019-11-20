@@ -22,7 +22,7 @@ The browser folder contains code that displays the result on your browser.
 This folder consist of the ```index-1.html``` and ```index-1.js``` files
 
 #### how it works
-- Clone repository (https://github.com/its-nedum/technical-task.git)
+- Clone [repository](https://github.com/its-nedum/technical-task.git)
 - Open the browser folder
 - Double click the ```index-1.html``` to open it in your default browser
 - Select your qualifications and click the submit button
@@ -32,8 +32,8 @@ This folder consist of the ```index-1.html``` and ```index-1.js``` files
 The console folder contains the code that displays the result on your IDE console.
 
 #### how it works
-- Download and Install VsCode (https://code.visualstudio.com/download)
-- Download and Install node.js (https://nodejs.org/en/download/)
-- Clone repository (https://github.com/its-nedum/technical-task.git)
+- Download and Install [VsCode](https://code.visualstudio.com/download)
+- Download and Install [node.js](https://nodejs.org/en/download/)
+- Clone [repository](https://github.com/its-nedum/technical-task.git)
 -  ```cd console``` in your terminal
 - Run ```node index.js```

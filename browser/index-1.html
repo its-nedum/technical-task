@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quick Technical Test </title> 
+        <style type="text/css">
+            body{
+                background-color: lavender;
+                color:#fff;
+            }
+            #form{
+                border: 1px solid;
+                margin-left: 30%;
+                margin-top: 10%;
+                height: 300px;
+                width: 500px;
+                text-align: center;
+                background-color: rgb(53, 41, 41);
+                border-radius: 5px;
+                outline: none;
+            }
+            #req1, #req2{
+                width: 50%;
+                height: 30px;
+                border-radius:10px;
+                border: 0px;
+                margin:20px;
+                display: block;
+            }
+            #btn{
+                width:30%;
+                height:30px;
+                font-family: arial;
+                font-size:18px;
+                border-radius: 5px;
+                border: 0px;
+                margin: 20px;
+                display:block;
+                
+            }
+        </style> 
+    </head>
+    <body>
+        <div id="form">
+            <select id="req1">
+                <option value="bike">Bike</option>
+            </select>
+            <select id="req2">
+                <option value="driving_license">Driving license</option>
+            </select>
+            <input type="submit" id="btn" value="SUBMIT" />
+
+            <p id="showApply"></p>
+            <p id="showCantApply"></p>
+        </div>
+        
+        
+        <script src="./index-1.js"></script>
+    </body>
+</html>
